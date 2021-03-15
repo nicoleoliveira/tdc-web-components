@@ -19,3 +19,5 @@ $ npm i -g live-server
 ```
 $ live-server
 ```
+
+Link da trilha: https://thedevconf.com/tdc/2021/innovation/trilha-web-e-front-end
